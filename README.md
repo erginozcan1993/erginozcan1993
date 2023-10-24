@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ergin Ozcan</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A passionate data science ethusiasts from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erginozcan1993" alt="erginozcan1993" /></a> </p>
 
